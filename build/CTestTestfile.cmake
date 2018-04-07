@@ -6,5 +6,4 @@
 # testing this directory and lists subdirectories to be tested as well.
 subdirs(gtest)
 subdirs(demos/fiducial_follow)
-subdirs(pico_flexx_driver-master)
 subdirs(vacum_bot)

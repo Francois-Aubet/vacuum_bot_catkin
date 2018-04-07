@@ -1,0 +1,3 @@
+sensors are to be built as simple publisher.
+
+They publish all the values they read.
