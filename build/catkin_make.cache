@@ -1,0 +1,2 @@
+demos/fiducial_follow:pico_flexx_driver-master:vacum_bot
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/catkin_ws/install -G Unix Makefiles
